@@ -14,3 +14,16 @@ body{
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+
+#mdlg{
+    background-image: url(../Gambar/225946.jpg);
+    width: 848px;
+    height:419;
+    margin-top: 0;
+  margin-bottom: 0;
+  height: 67vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  right: 35%;
+}
