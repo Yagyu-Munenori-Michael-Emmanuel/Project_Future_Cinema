@@ -1,8 +1,8 @@
-
 .navbar{
     background-image: url("../Gambar/225946.jpg");
     border-radius: 2px;
 }
+
 #lightcard{
     background-image: url("../Gambar/225946.jpg");
     height: 100%;
@@ -11,6 +11,7 @@
     align-items: center;
     border-color: gray;
 }
+
 body{
     background-image: url(../Gambar/225946.jpg);
     background-size: cover;
@@ -23,8 +24,8 @@ body{
 }
 
 #imge {
-    width: 800px;
-    height: 450px;
+    height: 525px;
+    width: 975px;
     margin: 0 auto;
 }
 
@@ -33,15 +34,15 @@ body{
 }
 
 .carousel{
-    height: 450px;
-    width: 800px;
+    height: 525px;
+    width: 975px;
     margin: auto;
     padding: 10px;
 }
 
 .carousel-inner{
-    height: 450px;
-    width: 800px;
+    height: 525px;
+    width: 975px;
     max-width: 200%;
     max-height: 200%;
     min-width: 50%;
