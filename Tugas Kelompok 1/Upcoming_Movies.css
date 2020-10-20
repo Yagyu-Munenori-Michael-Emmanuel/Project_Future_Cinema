@@ -16,14 +16,15 @@ body{
 }
 
 #mdlg{
-    background-image: url(../Gambar/225946.jpg);
-    width: 848px;
-    height:419;
+    background-color: transparent;
+    border-color: transparent;
+    width: 850px;
+    height: 400px;
     margin-top: 0;
-  margin-bottom: 0;
-  height: 67vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  right: 35%;
+    margin-bottom: 0;
+    height: 67vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    right: 35%;
 }
