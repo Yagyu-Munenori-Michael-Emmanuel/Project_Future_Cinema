@@ -12,6 +12,7 @@
 
 body{
     background-image: url("../Gambar/225946.jpg");
+    background-size: cover;
 }
 
 #btn{
