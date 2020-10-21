@@ -1,20 +1,21 @@
-
 .navbar{
     background-image: url("../Gambar/225946.jpg");
     border-radius: 2px;
 }
+
 #lightcard{
-    background-image: url("../Gambar/225946.jpg");
+    background-color: transparent;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-color: gray;
 }
+
 body{
-    background-image: url("../Gambar/225946.jpg");
+    background-image: url("../Background/39607.jpg");
     background-size: cover;
 }
+
 #img{
     padding-top: 20px;
     width: 425px;
@@ -32,5 +33,5 @@ body{
 }
 
 #cards {
-    border-color: gray;
+    border-color: transparent;
 }

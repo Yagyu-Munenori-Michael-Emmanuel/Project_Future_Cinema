@@ -1,10 +1,10 @@
 #navbar{
-    background-image: url("../Gambar/225946.jpg");
+    background-color: transparent;
     border-radius: 2px;
 }
 
 body{
-    background-image: url("../Gambar/225946.jpg");
+    background-image: url("../Background/39607.jpg");
     background-size: cover;
 }
   
