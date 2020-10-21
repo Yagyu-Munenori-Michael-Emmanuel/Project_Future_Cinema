@@ -31,11 +31,11 @@ body{
 #mdlg{
     background-color: transparent;
     border-color: transparent;
-    width: 850px;
-    height: 400px;
+    width: 727px;
+    height: 409px;
     margin-top: 0;
     margin-bottom: 0;
-    height: 67vh;
+    height: 90vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
