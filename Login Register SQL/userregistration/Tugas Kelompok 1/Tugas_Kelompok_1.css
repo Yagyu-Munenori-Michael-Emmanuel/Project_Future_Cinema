@@ -1,0 +1,37 @@
+.navbar{
+    background-color: transparent;
+    border-radius: 2px;
+}
+
+#lightcard{
+    background-color: transparent;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-image: url("../Background/39607.jpg");
+    background-size: cover;
+}
+
+#img{
+    padding-top: 20px;
+    width: 425px;
+    height: 425px;
+}
+
+#imge {
+    background-color: #eaeaea;
+    background-size: cover;
+    border-radius: 150px;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid #eaeaea;
+}
+
+#cards {
+    border-color: transparent;
+}
