@@ -1,0 +1,71 @@
+<div class="row">
+            <div class="col-sm-2">
+                <div class="card" style="width: 153px; height: 220px; background-color: transparent; border-color: transparent;">
+                    <img class="card-img-top btn" src="../UAS/Gambar/A1t8xCe9jwL._AC_SY741_.jpg" id="btn" data-toggle="modal" data-target="#AIW" alt="Card image cap" style="width: 151px;">
+                    <h6 class="col text-center btn" style="font-size: 12px;" id="btn" data-toggle="modal" data-target="#AIW">Avengers: Infinity War</h6>
+                </div>
+                          <div class="modal" id="AIW">
+                            <div class="modal-dialog">
+                              <div class="modal-content" id="mdlg">
+                                <div class="modal-body">
+                                  <iframe width="727" height="409" src="https://www.youtube.com/embed/6ZfuNTqbHE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                  <br>
+                                  <a class="text-white text-justify" style="font-size: 12px;">
+                                    <p><b>Synopsis :</b></p>
+                                    <p>
+                                        Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment.
+                                    </p>
+                                    <a type="button" class="btn btn-primary" id="btn" href="https://layarkacaxxi.icu/v/n-kgzu21-ze-ekl">Watch Now</a>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+            </div>
+            <div class="col-sm-2">
+                <div class="card" style="width: 153px; height: 220px; background-color: transparent; border-color: transparent;">
+                    <img class="card-img-top btn" src="../UAS/Gambar/A1t8xCe9jwL._AC_SY741_.jpg" id="btn" data-toggle="modal" data-target="#AIW" alt="Card image cap" style="width: 151px;">
+                    <h6 class="col text-center btn" style="font-size: 12px;" id="btn" data-toggle="modal" data-target="#AIW">Avengers: Infinity War</h6>
+                </div>
+                          <div class="modal" id="AIW">
+                            <div class="modal-dialog">
+                              <div class="modal-content" id="mdlg">
+                                <div class="modal-body">
+                                  <iframe width="727" height="409" src="https://www.youtube.com/embed/6ZfuNTqbHE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                  <br>
+                                  <a class="text-white text-justify" style="font-size: 12px;">
+                                    <p><b>Synopsis :</b></p>
+                                    <p>
+                                        Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment.
+                                    </p>
+                                    <a type="button" class="btn btn-primary" id="btn" href="https://layarkacaxxi.icu/v/n-kgzu21-ze-ekl">Watch Now</a>
+                                  </a>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+            </div>
+        </div>
+        <div class="col-sm-2">
+            <div class="card" style="width: 153px; height: 220px; background-color: transparent; border-color: transparent;">
+                <img class="card-img-top btn" src="../UAS/Gambar/A1t8xCe9jwL._AC_SY741_.jpg" id="btn" data-toggle="modal" data-target="#AIW" alt="Card image cap" style="width: 151px;">
+                <h6 class="col text-center btn" style="font-size: 12px;" id="btn" data-toggle="modal" data-target="#AIW">Avengers: Infinity War</h6>
+            </div>
+                      <div class="modal" id="AIW">
+                        <div class="modal-dialog">
+                          <div class="modal-content" id="mdlg">
+                            <div class="modal-body">
+                              <iframe width="727" height="409" src="https://www.youtube.com/embed/6ZfuNTqbHE8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                              <br>
+                              <a class="text-white text-justify" style="font-size: 12px;">
+                                <p><b>Synopsis :</b></p>
+                                <p>
+                                    Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment.
+                                </p>
+                                <a type="button" class="btn btn-primary" id="btn" href="https://layarkacaxxi.icu/v/n-kgzu21-ze-ekl">Watch Now</a>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+        </div>
