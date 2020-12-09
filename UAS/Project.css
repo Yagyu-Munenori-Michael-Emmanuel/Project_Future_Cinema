@@ -1,6 +1,4 @@
 #nvbar{
-    background-color: grey;
-    color: white;
     border-radius: 10px;
     top: 0;
     position: fixed;
@@ -51,9 +49,11 @@ body{
 footer {
     left: 0;
     bottom: 0;
-    height: 200px;
+    height: 150px;
     width: 100%;
-    background-color: grey;
-    color: white;
     text-align: center;
-  }
+}
+
+#ft{
+    background-image: url(../UAS/banner.jpg);
+}
