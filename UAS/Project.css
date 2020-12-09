@@ -6,6 +6,19 @@
     z-index: 1;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
+#ctn{
+    background-image: url("../UAS/HOMEWALLPAPER.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}
+
 body{
     background-color: white;
     background-size: cover;
