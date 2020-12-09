@@ -1,7 +1,11 @@
 #nvbar{
-    background-color: white;
-    border-bottom: gainsboro;
-    border-style: outset;
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
 }
 
 body{
@@ -43,3 +47,13 @@ body{
     justify-content: center;
     right: 30.5%;
 }
+
+footer {
+    left: 0;
+    bottom: 0;
+    height: 200px;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+  }
