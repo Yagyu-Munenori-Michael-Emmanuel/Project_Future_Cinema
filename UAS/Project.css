@@ -62,11 +62,18 @@ body{
 footer {
     left: 0;
     bottom: 0;
-    height: 150px;
+    height: 486px;
     width: 100%;
     text-align: center;
 }
 
 #ft{
-    background-image: url(../UAS/banner.jpg);
+    background-image: url(../UAS/Footerwallpaper.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#test2{
+    float: right;
 }
